@@ -1,0 +1,4 @@
+PROJEKT SELEKTORA:
+ID: action_mode_close_button
+TAG: ImageView
+STATUS: ZALICZONE
